@@ -1,7 +1,7 @@
 ---
 title: "Goal"
 date: 2021-11-24T19:56:45+01:00
-draft: true
+draft: false
 ---
 #### Using the Dunderpedia alone, we aim to complete the following milestones:
 - Build a network with characters as nodes
