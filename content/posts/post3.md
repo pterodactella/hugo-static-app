@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IMDB Episode Ratings Analysis"
-date: 2021-11-24T18:26:38+01:00
+date: 2021-12-03T15:26:38+01:00
 description: ""
 featured_image: "/images/group.jpg"
 draft: false
